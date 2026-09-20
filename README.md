@@ -70,10 +70,10 @@
 </td>
 <td width="50%" align="center">
 
-### [cos102-problemsolver](https://github.com/UncleT-cyber/cos102-problemsolver)
+### [Libria](https://github.com/UncleT-cyber/libria)
 
-![Stars](https://img.shields.io/github/stars/UncleT-cyber/cos102-problemsolver?style=flat-square&color=F72585&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/UncleT-cyber/cos102-problemsolver?style=flat-square&color=00f5ff&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/UncleT-cyber/libria?style=flat-square&color=F72585&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/UncleT-cyber/libria?style=flat-square&color=00f5ff&labelColor=0d1117)
 
 </td>
 </tr>

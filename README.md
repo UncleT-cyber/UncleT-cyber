@@ -51,27 +51,29 @@
 </td>
 <td width="50%" align="center">
 
-### [MIVAPULSE](https://github.com/UncleT-cyber/MIVAPULSE)
+### [MIVAPULSE](https://github.com/UncleT-cyber/mivapulse)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Stars](https://img.shields.io/github/stars/UncleT-cyber/MIVAPULSE?style=flat-square&color=F72585&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/UncleT-cyber/MIVAPULSE?style=flat-square&color=00f5ff&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/UncleT-cyber/mivapulse?style=flat-square&color=F72585&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/UncleT-cyber/mivapulse?style=flat-square&color=00f5ff&labelColor=0d1117)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-### [Libria](https://github.com/UncleT-cyber/Libria)
+### [Smart Student Academic Portal](https://github.com/UncleT-cyber/smart-student-academic-portal)
 
-![Status](https://img.shields.io/badge/Status-Coming%20Soon-F72585?style=flat-square&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/UncleT-cyber/smart-student-academic-portal?style=flat-square&color=F72585&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/UncleT-cyber/smart-student-academic-portal?style=flat-square&color=00f5ff&labelColor=0d1117)
 
 </td>
 <td width="50%" align="center">
 
-### [Smart Student Portal](https://github.com/UncleT-cyber/Smart-student-portal)
+### [cos102-problemsolver](https://github.com/UncleT-cyber/cos102-problemsolver)
 
-![Status](https://img.shields.io/badge/Status-Coming%20Soon-00f5ff?style=flat-square&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/UncleT-cyber/cos102-problemsolver?style=flat-square&color=F72585&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/UncleT-cyber/cos102-problemsolver?style=flat-square&color=00f5ff&labelColor=0d1117)
 
 </td>
 </tr>
@@ -156,7 +158,7 @@
   <img src="https://img.shields.io/badge/Yikora-00f5ff?style=for-the-badge&logo=googlechat&logoColor=0d1117" alt="Yikora">
 </a>
 <a href="mailto:a.abah6082@miva.edu.ng" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" alt="Email">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
 </a>
 
 </div>

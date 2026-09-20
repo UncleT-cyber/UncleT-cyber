@@ -18,7 +18,7 @@
 
 ---
 
-## **> sys.stats --format=neon**
+## **STATS**
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## **> sys.projects --display=pinned**
+## **PINNED PROJECTS**
 
 <table>
 <tr>
@@ -77,7 +77,7 @@
 
 ---
 
-## **> sys.augmentations --load**
+## **TECH STACK**
 
 <table>
 <tr>
@@ -140,7 +140,7 @@
 
 ---
 
-## **> sys.connect --interface=neon**
+## **CONNECT**
 
 <div align="center">
 

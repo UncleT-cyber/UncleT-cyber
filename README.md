@@ -165,10 +165,12 @@
 
 > *"THE FUTURE IS ALREADY HERE -- IT'S JUST NOT EVENLY DISTRIBUTED."* -- **William Gibson**
 
----
+<br>
 
-**> SHUTDOWN SEQUENCE INITIATED...**
+![Visitor Count](https://komarev.com/ghpvc/?username=UncleT-cyber&color=7B2FF7&style=for-the-badge&label=PROFILE+VISITORS&labelColor=0d1117)
 
-**> CONNECTION SECURE. KEEP HACKING.**
+<br>
+
+**Stay Safe. Stay Ethical. Keep Hacking.**
 
 </div>

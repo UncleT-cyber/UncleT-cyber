@@ -1,6 +1,18 @@
 <div align="center">
 
+# > UNCLE T CYBER // SYSTEM BOOT
+
+---
+
 ![UncleT-cyber Banner](header.svg)
+
+---
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=500&height=40&lines=%3E+Full-Stack+Cyberpunk+Engineer%3B%0A%3E+Building+the+Future+in+Neon%3B%0A%3E+Hack.+Build.+Repeat.)](https://git.io/typing-svg)
 
 </div>
 

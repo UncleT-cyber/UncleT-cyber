@@ -1,23 +1,22 @@
 <div align="center">
 
-```
-████████╗██╗   ██╗██╗   ██╗██╗  ████████╗███████╗███╗   ███╗
-╚══██╔══╝██║   ██║██║   ██║██║  ╚══██╔══╝██╔════╝████╗ ████║
-   ██║   ██║   ██║██║   ██║██║     ██║   █████╗  ██╔████╔██║
-   ██║   ██║   ██║██║   ██║██║     ██║   ██╔══╝  ██║╚██╔╝██║
-   ██║   ╚██████╔╝╚██████╔╝██║     ██║   ███████╗██║ ╚═╝ ██║
-   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝     ╚═╝   ╚══════╝╚═╝     ╚═╝
-```
-
-**`SYSTEM STATUS: ONLINE // ACCESS GRANTED`**
-**`USER: UncleT-cyber // CLEARANCE: LEVEL 9`**
-**`INITIALIZING NEURAL INTERFACE... COMPLETE`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&height=45&lines=%3E+Full-Stack+Cyberpunk+Engineer%3B%0A%3E+Building+the+Future+in+Neon%3B%0A%3E+Hack.+Build.+Repeat.)](https://git.io/typing-svg)
+# `> UNCLE T CYBER // SYSTEM BOOT`
 
 ---
 
+**`[ SYSTEM STATUS: ONLINE // ACCESS GRANTED ]`**
+
+**`[ USER: UncleT-cyber // CLEARANCE: LEVEL 9 ]`**
+
+**`[ INITIALIZING NEURAL INTERFACE... COMPLETE ]`**
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&height=45&lines=%3E+Full-Stack+Cyberpunk+Engineer%3B%0A%3E+Building+the+Future+in+Neon%3B%0A%3E+Hack.+Build.+Repeat.)](https://git.io/typing-svg)
+
 </div>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- SECTION 01 : GRID MATRIX — DYNAMIC STATS              -->
@@ -274,14 +273,12 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  "THE FUTURE IS ALREADY HERE — IT'S JUST NOT        ║
-║   EVENLY DISTRIBUTED." — WILLIAM GIBSON              ║
-║                                                      ║
-║  > SHUTDOWN SEQUENCE INITIATED...                    ║
-║  > CONNECTION SECURE. KEEP HACKING.                  ║
-╚══════════════════════════════════════════════════════╝
-```
+> *"THE FUTURE IS ALREADY HERE -- IT'S JUST NOT EVENLY DISTRIBUTED."* -- **William Gibson**
+
+---
+
+`> SHUTDOWN SEQUENCE INITIATED...`
+
+`> CONNECTION SECURE. KEEP HACKING.`
 
 </div>

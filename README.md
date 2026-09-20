@@ -18,50 +18,17 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- SECTION 01 : GRID MATRIX — DYNAMIC STATS              -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
 ## `> sys.stats --format=neon`
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UncleT-cyber&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=0d1117&hide_border=true&include_all_commits=true&count_private=true)
 
-<a href="https://github.com/UncleT-cyber">
-  <img src="https://github-readme-stats.vercel.app/api?username=UncleT-cyber&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats">
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UncleT-cyber&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=F72585&text_color=c9d1d9&border_color=0d1117&hide_border=true&langs_count=8)
 
-</td>
-<td width="50%" align="center">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UncleT-cyber&theme=tokyonight&background=0d1117&ring=F72585&fire=00f5ff&currStreakLabel=7B2FF7&sideLabels=F72585&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=585858&border=0d1117)
 
-<a href="https://github.com/UncleT-cyber">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UncleT-cyber&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=F72585&text_color=c9d1d9&border_color=0d1117&hide_border=true&langs_count=8" width="400" alt="Top Languages">
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/UncleT-cyber">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UncleT-cyber&theme=tokyonight&background=0d1117&ring=F72585&fire=00f5ff&currStreakLabel=7B2FF7&sideLabels=F72585&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=585858&border=0d1117" width="700" alt="Streak Stats">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=UncleT-cyber&theme=tokyonight&no-frame=true&column=7&margin-w=5&bg_color=0d1117&title_color=F72585&ring=F72585&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=UncleT-cyber&theme=tokyonight&no-frame=true&column=7&margin-w=5&bg_color=0d1117&title_color=F72585&ring=F72585&no-bg=true)
 
 </div>
 
@@ -200,23 +167,17 @@
 <tr>
 <td width="33%" align="center">
 
-<a href="https://github.com/UncleT-cyber/Ark-Geo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=Ark-Geo&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true" alt="Ark-Geo">
-</a>
+[![Ark-Geo](https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=Ark-Geo&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true)](https://github.com/UncleT-cyber/Ark-Geo)
 
 </td>
 <td width="33%" align="center">
 
-<a href="https://github.com/UncleT-cyber/MIVAPULSE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=MIVAPULSE&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true" alt="MIVAPULSE">
-</a>
+[![MIVAPULSE](https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=MIVAPULSE&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true)](https://github.com/UncleT-cyber/MIVAPULSE)
 
 </td>
 <td width="33%" align="center">
 
-<a href="https://github.com/UncleT-cyber/Libria">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=Libria&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true" alt="Libria">
-</a>
+[![Libria](https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=Libria&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true)](https://github.com/UncleT-cyber/Libria)
 
 </td>
 </tr>
@@ -224,9 +185,7 @@
 
 <div align="center">
 
-<a href="https://github.com/UncleT-cyber/Smart-student-portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=Smart-student-portal&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true&card_width=400" alt="Smart Student Portal">
-</a>
+[![Smart Student Portal](https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=Smart-student-portal&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true&card_width=400)](https://github.com/UncleT-cyber/Smart-student-portal)
 
 </div>
 
@@ -240,7 +199,7 @@
 
 <div align="center">
 
-[![UncleT-cyber's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UncleT-cyber&bg_color=0d1117&color=F72585&line=7B2FF7&point=00f5ff&area_color=7B2FF7&area=true&hide_border=true&custom_title=CONTRIBUTION%20MATRIX%20//%20UNCLETCYBER)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=UncleT-cyber&bg_color=0d1117&color=F72585&line=7B2FF7&point=00f5ff&area_color=7B2FF7&area=true&hide_border=true&custom_title=CONTRIBUTION%20MATRIX%20//%20UNCLETCYBER)
 
 </div>
 

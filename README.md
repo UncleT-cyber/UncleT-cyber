@@ -22,21 +22,80 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UncleT-cyber&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=0d1117&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/UncleT-cyber">
+  <img src="https://img.shields.io/badge/Repos-5-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos">
+</a>
+<a href="https://github.com/UncleT-cyber?tab=followers">
+  <img src="https://img.shields.io/badge/Followers-0-F72585?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Followers">
+</a>
+<a href="https://github.com/UncleT-cyber?tab=following">
+  <img src="https://img.shields.io/badge/Following-0-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Following">
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UncleT-cyber&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=F72585&text_color=c9d1d9&border_color=0d1117&hide_border=true&langs_count=8)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UncleT-cyber&theme=tokyonight&background=0d1117&ring=F72585&fire=00f5ff&currStreakLabel=7B2FF7&sideLabels=F72585&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=585858&border=0d1117)
+<br>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=UncleT-cyber&theme=tokyonight&no-frame=true&column=7&margin-w=5&bg_color=0d1117&title_color=F72585&ring=F72585&no-bg=true)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=UncleT-cyber&theme=tokyonight&background=0d1117&ring=F72585&fire=00f5ff&currStreakLabel=7B2FF7&sideLabels=F72585&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=585858&border=0d1117)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UncleT-cyber&bg_color=0d1117&color=F72585&line=7B2FF7&point=00f5ff&area_color=7B2FF7&area=true&hide_border=true)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- SECTION 02 : CYBERNETIC TECH STACK & AUGMENTATIONS     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+## `> sys.projects --display=pinned`
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### [Ark-Geo](https://github.com/UncleT-cyber/Ark-Geo)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/UncleT-cyber/Ark-Geo?style=flat-square&color=F72585&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/UncleT-cyber/Ark-Geo?style=flat-square&color=00f5ff&labelColor=0d1117)
+
+</td>
+<td width="50%" align="center">
+
+### [MIVAPULSE](https://github.com/UncleT-cyber/MIVAPULSE)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Stars](https://img.shields.io/github/stars/UncleT-cyber/MIVAPULSE?style=flat-square&color=F72585&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/UncleT-cyber/MIVAPULSE?style=flat-square&color=00f5ff&labelColor=0d1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### [Libria](https://github.com/UncleT-cyber/Libria)
+
+![Stars](https://img.shields.io/github/stars/UncleT-cyber/Libria?style=flat-square&color=F72585&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/UncleT-cyber/Libria?style=flat-square&color=00f5ff&labelColor=0d1117)
+
+</td>
+<td width="50%" align="center">
+
+### [Smart Student Portal](https://github.com/UncleT-cyber/Smart-student-portal)
+
+![Stars](https://img.shields.io/github/stars/UncleT-cyber/Smart-student-portal?style=flat-square&color=F72585&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/UncleT-cyber/Smart-student-portal?style=flat-square&color=00f5ff&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## `> sys.augmentations --load`
 
@@ -55,20 +114,14 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </a>
-<a href="https://www.java.com" target="_blank">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-</a>
 <a href="https://www.w3.org/html/" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </a>
-<a href="https://www.rust-lang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-</a>
-<a href="https://go.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 </a>
 
 </td>
@@ -88,126 +141,24 @@
 <a href="https://www.djangoproject.com/" target="_blank">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</a>
-<a href="https://spring.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-</a>
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</a>
-<a href="https://kubernetes.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `[// NETWORK PROTOCOLS]`
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</a>
-<a href="https://aws.amazon.com" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-</a>
-<a href="https://cloud.google.com" target="_blank">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
-</a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
 </a>
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### `[// CYBERDECK CONFIGURATION]`
-
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</a>
-<a href="https://neovim.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
-</a>
-<a href="https://postman.com" target="_blank">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</a>
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<a href="https://www.postgresql.org" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </a>
-<a href="https://www.postgresql.org" target="_blank">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</a>
 
 </td>
 </tr>
 </table>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- SECTION 03 : PINNED REPOSITORIES — FEATURED PROJECTS   -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## `> sys.projects --display=pinned`
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-[![Ark-Geo](https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=Ark-Geo&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true)](https://github.com/UncleT-cyber/Ark-Geo)
-
-</td>
-<td width="33%" align="center">
-
-[![MIVAPULSE](https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=MIVAPULSE&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true)](https://github.com/UncleT-cyber/MIVAPULSE)
-
-</td>
-<td width="33%" align="center">
-
-[![Libria](https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=Libria&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true)](https://github.com/UncleT-cyber/Libria)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![Smart Student Portal](https://github-readme-stats.vercel.app/api/pin/?username=UncleT-cyber&repo=Smart-student-portal&theme=tokyonight&bg_color=0d1117&title_color=F72585&icon_color=00f5ff&text_color=c9d1d9&border_color=161b22&hide_border=true&card_width=400)](https://github.com/UncleT-cyber/Smart-student-portal)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- SECTION 04 : CONTRIBUTION GRAPH                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## `> sys.contribution_matrix --render`
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=UncleT-cyber&bg_color=0d1117&color=F72585&line=7B2FF7&point=00f5ff&area_color=7B2FF7&area=true&hide_border=true&custom_title=CONTRIBUTION%20MATRIX%20//%20UNCLETCYBER)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- SECTION 05 : CONNECT — SOCIAL INTERFACE                -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 ## `> sys.connect --interface=neon`
 

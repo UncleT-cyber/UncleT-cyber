@@ -153,7 +153,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn">
 </a>
 <a href="https://app.yikora.com/profile/unclet" target="_blank">
-  <img src="https://img.shields.io/badge/Yikora_MIVACIRCLE-0d1117?style=for-the-badge&logo=yikora&logoColor=00f5ff" alt="Yikora">
+  <img src="https://img.shields.io/badge/Yikora-00f5ff?style=for-the-badge&logo=googlechat&logoColor=0d1117" alt="Yikora">
 </a>
 <a href="mailto:a.abah6082@miva.edu.ng" target="_blank">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" alt="Email">

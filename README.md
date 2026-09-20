@@ -89,7 +89,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### **[// CORE MATRIX TOOLS]**
+### **Languages**
 
 <a href="https://www.python.org" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -113,7 +113,7 @@
 </td>
 <td width="50%" valign="top">
 
-### **[// CYBERWARE & FRAMEWORKS]**
+### **Frameworks & Tools**
 
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">

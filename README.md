@@ -1,58 +1,42 @@
 <div align="center">
 
-# `> UNCLE T CYBER // SYSTEM BOOT`
+# > UNCLE T CYBER // SYSTEM BOOT
 
 ---
 
-**`[ SYSTEM STATUS: ONLINE // ACCESS GRANTED ]`**
+### **[ SYSTEM STATUS: ONLINE // ACCESS GRANTED ]**
 
-**`[ USER: UncleT-cyber // CLEARANCE: LEVEL 9 ]`**
+### **[ USER: UncleT-cyber // CLEARANCE: LEVEL 9 ]**
 
-**`[ INITIALIZING NEURAL INTERFACE... COMPLETE ]`**
+### **[ INITIALIZING NEURAL INTERFACE... COMPLETE ]**
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&height=45&lines=%3E+Full-Stack+Cyberpunk+Engineer%3B%0A%3E+Building+the+Future+in+Neon%3B%0A%3E+Hack.+Build.+Repeat.)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## `> sys.stats --format=neon`
 
 <div align="center">
 
-<a href="https://github.com/UncleT-cyber">
-  <img src="https://img.shields.io/badge/Repos-5-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos">
-</a>
-<a href="https://github.com/UncleT-cyber?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-0-F72585?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Followers">
-</a>
-<a href="https://github.com/UncleT-cyber?tab=following">
-  <img src="https://img.shields.io/badge/Following-0-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Following">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=UncleT-cyber&theme=tokyonight&background=0d1117&ring=F72585&fire=00f5ff&currStreakLabel=7B2FF7&sideLabels=F72585&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=585858&border=0d1117)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UncleT-cyber&bg_color=0d1117&color=F72585&line=7B2FF7&point=00f5ff&area_color=7B2FF7&area=true&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=500&height=40&lines=%3E+Full-Stack+Cyberpunk+Engineer%3B%0A%3E+Building+the+Future+in+Neon%3B%0A%3E+Hack.+Build.+Repeat.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `> sys.projects --display=pinned`
+## **> sys.stats --format=neon**
+
+<div align="center">
+
+![Repos](https://img.shields.io/badge/Repos-5-00f5ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Followers](https://img.shields.io/badge/Followers-0-F72585?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Following](https://img.shields.io/badge/Following-0-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+
+![Streak](https://streak-stats.demolab.com?user=UncleT-cyber&theme=tokyonight&background=0d1117&ring=F72585&fire=00f5ff&currStreakLabel=7B2FF7&sideLabels=F72585&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=585858&border=0d1117)
+
+</div>
+
+---
+
+## **> sys.projects --display=pinned**
 
 <table>
 <tr>
@@ -80,16 +64,14 @@
 
 ### [Libria](https://github.com/UncleT-cyber/Libria)
 
-![Stars](https://img.shields.io/github/stars/UncleT-cyber/Libria?style=flat-square&color=F72585&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/UncleT-cyber/Libria?style=flat-square&color=00f5ff&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Coming%20Soon-F72585?style=flat-square&labelColor=0d1117)
 
 </td>
 <td width="50%" align="center">
 
 ### [Smart Student Portal](https://github.com/UncleT-cyber/Smart-student-portal)
 
-![Stars](https://img.shields.io/github/stars/UncleT-cyber/Smart-student-portal?style=flat-square&color=F72585&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/UncleT-cyber/Smart-student-portal?style=flat-square&color=00f5ff&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Coming%20Soon-00f5ff?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
@@ -97,13 +79,13 @@
 
 ---
 
-## `> sys.augmentations --load`
+## **> sys.augmentations --load**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `[// CORE MATRIX TOOLS]`
+### **[// CORE MATRIX TOOLS]**
 
 <a href="https://www.python.org" target="_blank">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -127,7 +109,7 @@
 </td>
 <td width="50%" valign="top">
 
-### `[// CYBERWARE & FRAMEWORKS]`
+### **[// CYBERWARE & FRAMEWORKS]**
 
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -160,7 +142,7 @@
 
 ---
 
-## `> sys.connect --interface=neon`
+## **> sys.connect --interface=neon**
 
 <div align="center">
 
@@ -187,8 +169,8 @@
 
 ---
 
-`> SHUTDOWN SEQUENCE INITIATED...`
+**> SHUTDOWN SEQUENCE INITIATED...**
 
-`> CONNECTION SECURE. KEEP HACKING.`
+**> CONNECTION SECURE. KEEP HACKING.**
 
 </div>

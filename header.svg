@@ -1,117 +1,132 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0a0f;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="50%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#0a0a0f"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#F72585;stop-opacity:0.8" />
-      <stop offset="50%" style="stop-color:#7B2FF7;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#00f5ff;stop-opacity:0.8" />
+    <linearGradient id="neonLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#F72585;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#F72585;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#7B2FF7;stop-opacity:1"/>
+      <stop offset="80%" style="stop-color:#00f5ff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#00f5ff;stop-opacity:0"/>
     </linearGradient>
-    <filter id="neon">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowStrong">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <rect width="900" height="300" fill="url(#bg)"/>
-  <!-- Matrix rain columns -->
-  <g fill="#00f5ff" opacity="0.08" font-family="monospace" font-size="12">
-    <text x="30" y="20">01001010 11010010 00101101</text>
-    <text x="30" y="35">10110100 01001011 11100110</text>
-    <text x="30" y="50">01101001 10010110 01011010</text>
-    <text x="30" y="65">11001010 01100101 10100110</text>
-    <text x="30" y="80">01010011 10110100 01101001</text>
-    <text x="30" y="95">11100110 00101011 10010110</text>
-    <text x="30" y="110">01101001 11001010 01010011</text>
-    <text x="30" y="125">10010110 01101001 11100110</text>
-    <text x="30" y="140">01010011 10110100 01101001</text>
-    <text x="30" y="155">11100110 00101011 10010110</text>
-    <text x="30" y="170">01101001 11001010 01010011</text>
-    <text x="30" y="185">10010110 01101001 11100110</text>
-    <text x="30" y="200">01010011 10110100 01101001</text>
-    <text x="30" y="215">11100110 00101011 10010110</text>
-    <text x="30" y="230">01101001 11001010 01010011</text>
-    <text x="30" y="245">10010110 01101001 11100110</text>
-    <text x="30" y="260">01010011 10110100 01101001</text>
-    <text x="30" y="275">11100110 00101011 10010110</text>
-    <text x="200" y="25">SELECT * FROM users WHERE</text>
-    <text x="200" y="40">auth_bypass=1; DROP TABLE--</text>
-    <text x="200" y="55">nmap -sV -O target.machine</text>
-    <text x="200" y="70">ssh root@192.168.1.1 -p22</text>
-    <text x="200" y="85">hashcat -m 1000 ntlm.hash</text>
-    <text x="200" y="100">sqlmap -u "target?id=1"</text>
-    <text x="200" y="115">msfconsole -x "use exploit/"</text>
-    <text x="200" y="130">burpsuite --proxy 8080</text>
-    <text x="200" y="145">nikto -h https://target.com</text>
-    <text x="200" y="160">john --wordlist=rockyou.txt</text>
-    <text x="200" y="175">hydra -l admin -P pass.txt</text>
-    <text x="200" y="190">gobuster dir -u target -w</text>
-    <text x="200" y="205">metasploit reverse_tcp handler</text>
-    <text x="200" y="220">wireshark -i eth0 -f tcp</text>
-    <text x="200" y="235">aircrack-ng -w wordlist.cap</text>
-    <text x="200" y="250">ettercap -T -M arp // //</text>
-    <text x="200" y="265">tcpdump -i any port 443</text>
-    <text x="200" y="280">openssl s_client -connect ssl</text>
-    <text x="500" y="20">VULNERABILITY SCAN COMPLETE</text>
-    <text x="500" y="35">[+] CVE-2024-3094 DETECTED</text>
-    <text x="500" y="50">[!] XSS PAYLOAD INJECTED</text>
-    <text x="500" y="65">[+] SHELL OBTAINED ON TARGET</text>
-    <text x="500" y="80">[!] ROOT ACCESS CONFIRMED</text>
-    <text x="500" y="95">[+] DATA EXFILTRATION COMPLETE</text>
-    <text x="500" y="110">[!] FIREWALL RULES BYPASSED</text>
-    <text x="500" y="125">[+] PERSISTENCE ESTABLISHED</text>
-    <text x="500" y="140">[!] ENCRYPTION KEY EXTRACTED</text>
-    <text x="500" y="155">[+] PRIVILEGE ESCALATION DONE</text>
-    <text x="500" y="170">[!] LATERAL MOVEMENT ACTIVE</text>
-    <text x="500" y="185">[+] C2 CHANNEL SECURED</text>
-    <text x="500" y="200">[!] LOG EVASION ENABLED</text>
-    <text x="500" y="215">[+] POST-EXPLOIT COMPLETE</text>
-    <text x="500" y="230">[!] STEALTH MODE ENGAGED</text>
-    <text x="500" y="245">[+] ZERO-DAY DISCOVERED</text>
-    <text x="500" y="260">[!] THREAT INTEL UPDATED</text>
-    <text x="500" y="275">[+] MISSION ACCOMPLISHED</text>
-    <text x="700" y="30">#!/bin/bash</text>
-    <text x="700" y="45">while true; do</text>
-    <text x="700" y="60">  scan_network $TARGET</text>
-    <text x="700" y="75">  exploit_vuln $CVE</text>
-    <text x="700" y="90">  escalate_privs</text>
-    <text x="700" y="105">  exfil_data $C2</text>
-    <text x="700" y="120">  cover_tracks</text>
-    <text x="700" y="135">done</text>
-    <text x="700" y="160">import socket</text>
-    <text x="700" y="175">import threading</text>
-    <text x="700" y="190">from scapy.all import *</text>
-    <text x="700" y="205">s = socket.socket()</text>
-    <text x="700" y="220">s.connect((ip, port))</text>
-    <text x="700" y="235">while True:</text>
-    <text x="700" y="250">  data = s.recv(1024)</text>
-    <text x="700" y="265">  exec(decode(data))</text>
-    <text x="700" y="280">  s.send(result)</text>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)"/>
+
+  <!-- Grid pattern -->
+  <g stroke="#00f5ff" stroke-width="0.3" opacity="0.06">
+    <line x1="0" y1="0" x2="0" y2="280"/><line x1="50" y1="0" x2="50" y2="280"/>
+    <line x1="100" y1="0" x2="100" y2="280"/><line x1="150" y1="0" x2="150" y2="280"/>
+    <line x1="200" y1="0" x2="200" y2="280"/><line x1="250" y1="0" x2="250" y2="280"/>
+    <line x1="300" y1="0" x2="300" y2="280"/><line x1="350" y1="0" x2="350" y2="280"/>
+    <line x1="400" y1="0" x2="400" y2="280"/><line x1="450" y1="0" x2="450" y2="280"/>
+    <line x1="500" y1="0" x2="500" y2="280"/><line x1="550" y1="0" x2="550" y2="280"/>
+    <line x1="600" y1="0" x2="600" y2="280"/><line x1="650" y1="0" x2="650" y2="280"/>
+    <line x1="700" y1="0" x2="700" y2="280"/><line x1="750" y1="0" x2="750" y2="280"/>
+    <line x1="800" y1="0" x2="800" y2="280"/><line x1="850" y1="0" x2="850" y2="280"/>
+    <line x1="900" y1="0" x2="900" y2="280"/>
+    <line x1="0" y1="0" x2="900" y2="0"/><line x1="0" y1="40" x2="900" y2="40"/>
+    <line x1="0" y1="80" x2="900" y2="80"/><line x1="0" y1="120" x2="900" y2="120"/>
+    <line x1="0" y1="160" x2="900" y2="160"/><line x1="0" y1="200" x2="900" y2="200"/>
+    <line x1="0" y1="240" x2="900" y2="240"/><line x1="0" y1="280" x2="900" y2="280"/>
   </g>
-  <!-- Hooded figure silhouette -->
-  <g transform="translate(340, 30)" filter="url(#neon)">
-    <ellipse cx="110" cy="60" rx="45" ry="20" fill="#1a1a2e" opacity="0.6"/>
-    <path d="M65,80 Q60,50 80,35 Q95,25 110,22 Q125,25 140,35 Q160,50 155,80 L155,80 Q145,90 110,95 Q75,90 65,80 Z" fill="#1a1a2e"/>
-    <path d="M75,85 Q70,55 90,40 Q100,32 110,30 Q120,32 130,40 Q150,55 145,85 L145,85 Q135,95 110,100 Q85,95 75,85 Z" fill="#0d1117"/>
-    <path d="M80,90 Q75,60 95,45 Q102,38 110,36 Q118,38 125,45 Q145,60 140,90 L140,90 Q130,100 110,105 Q90,100 80,90 Z" fill="#161b22"/>
-    <!-- Face shadow -->
-    <ellipse cx="110" cy="55" rx="20" ry="25" fill="#000000" opacity="0.8"/>
-    <!-- Eyes glow -->
-    <ellipse cx="103" cy="52" rx="4" ry="2" fill="#F72585" opacity="0.9"/>
-    <ellipse cx="117" cy="52" rx="4" ry="2" fill="#F72585" opacity="0.9"/>
-    <!-- Laptop -->
-    <rect x="70" y="130" width="80" height="50" rx="3" fill="#1a1a2e" stroke="#00f5ff" stroke-width="0.5" opacity="0.8"/>
-    <rect x="73" y="133" width="74" height="40" rx="2" fill="#0d1117"/>
-    <!-- Screen glow -->
-    <rect x="73" y="133" width="74" height="40" rx="2" fill="#00f5ff" opacity="0.05"/>
-    <!-- Code on screen -->
-    <text x="78" y="148" fill="#00f5ff" font-family="monospace" font-size="6" opacity="0.7">$ ./exploit</text>
-    <text x="78" y="156" fill="#F72585" font-family="monospace" font-size="6" opacity="0.7">[+] SHELL OPEN</text>
-    <text x="78" y="164" fill="#7B2FF7" font-family="monospace" font-size="6" opacity="0.7">root@target#</text>
-    <!-- Keyboard -->
-    <path d="M65,185 L155,185 L160,195 L60,195 Z" fill="#1a1a2e" stroke="#00f5ff" stroke-width="0.3" opacity="0.6"/>
+
+  <!-- Left: Binary rain -->
+  <g fill="#00f5ff" font-family="monospace" font-size="11" opacity="0.12">
+    <text x="20" y="30">01001010</text><text x="20" y="48">11010010</text>
+    <text x="20" y="66">00101101</text><text x="20" y="84">10110100</text>
+    <text x="20" y="102">01001011</text><text x="20" y="120">11100110</text>
+    <text x="20" y="138">01101001</text><text x="20" y="156">10010110</text>
+    <text x="20" y="174">01010011</text><text x="20" y="192">10110100</text>
+    <text x="20" y="210">01101001</text><text x="20" y="228">11001010</text>
+    <text x="20" y="246">10010110</text><text x="20" y="264">01010011</text>
+    <text x="110" y="30">11100110</text><text x="110" y="48">00101011</text>
+    <text x="110" y="66">10010110</text><text x="110" y="84">01101001</text>
+    <text x="110" y="102">11001010</text><text x="110" y="120">01010011</text>
+    <text x="110" y="138">10010110</text><text x="110" y="156">01101001</text>
+    <text x="110" y="174">11100110</text><text x="110" y="192">00101011</text>
+    <text x="110" y="210">10010110</text><text x="110" y="228">01101001</text>
+    <text x="110" y="246">11001010</text><text x="110" y="264">01010011</text>
   </g>
-  <!-- Horizontal scan line -->
-  <line x1="0" y1="150" x2="900" y2="150" stroke="url(#glow)" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Right: Code snippets -->
+  <g fill="#F72585" font-family="monospace" font-size="10" opacity="0.10">
+    <text x="720" y="30">#!/bin/bash</text>
+    <text x="720" y="48">nmap -sV -O target</text>
+    <text x="720" y="66">sqlmap -u "url?id=1"</text>
+    <text x="720" y="84">hashcat -m 1000 hash</text>
+    <text x="720" y="102">msfconsole -x "use"</text>
+    <text x="720" y="120">nikto -h target.com</text>
+    <text x="720" y="138">john --wordlist=rock</text>
+    <text x="720" y="156">gobuster dir -u url</text>
+    <text x="720" y="174">import socket</text>
+    <text x="720" y="192">from scapy.all import *</text>
+    <text x="720" y="210">s.connect((ip, 443))</text>
+    <text x="720" y="228">while True:</text>
+    <text x="720" y="246">exec(decode(data))</text>
+    <text x="720" y="264">s.send(result)</text>
+  </g>
+
+  <!-- Right side: vulnerability scan output -->
+  <g fill="#00f5ff" font-family="monospace" font-size="10" opacity="0.10">
+    <text x="560" y="30">VULN SCAN COMPLETE</text>
+    <text x="560" y="48">[+] CVE-2024-3094</text>
+    <text x="560" y="66">[!] XSS INJECTED</text>
+    <text x="560" y="84">[+] SHELL OBTAINED</text>
+    <text x="560" y="102">[!] ROOT ACCESS</text>
+    <text x="560" y="120">[+] DATA EXFIL OK</text>
+    <text x="560" y="138">[!] FIREWALL BYPASS</text>
+    <text x="560" y="156">[+] PERSISTENCE ON</text>
+    <text x="560" y="174">[!] KEY EXTRACTED</text>
+    <text x="560" y="192">[+] PRIVESC DONE</text>
+    <text x="560" y="210">[!] LATERAL MOVE</text>
+    <text x="560" y="228">[+] C2 SECURED</text>
+    <text x="560" y="246">[!] STEALTH MODE</text>
+    <text x="560" y="264">[+] MISSION DONE</text>
+  </g>
+
+  <!-- Center: Large shield icon -->
+  <g transform="translate(395, 55)" filter="url(#glowStrong)">
+    <path d="M55,0 L110,25 L110,75 Q110,120 55,145 Q0,120 0,75 L0,25 Z" 
+          fill="none" stroke="#F72585" stroke-width="2" opacity="0.6"/>
+    <path d="M55,10 L100,32 L100,72 Q100,110 55,132 Q10,110 10,72 L10,32 Z" 
+          fill="#F72585" opacity="0.08"/>
+    <!-- Lock icon inside shield -->
+    <rect x="38" y="65" width="34" height="28" rx="3" fill="none" stroke="#00f5ff" stroke-width="2" opacity="0.8"/>
+    <path d="M45,65 L45,55 Q45,42 55,42 Q65,42 65,55 L65,65" fill="none" stroke="#00f5ff" stroke-width="2" opacity="0.8"/>
+    <circle cx="55" cy="78" r="4" fill="#00f5ff" opacity="0.8"/>
+    <line x1="55" y1="82" x2="55" y2="88" stroke="#00f5ff" stroke-width="2" opacity="0.8"/>
+  </g>
+
+  <!-- Center: Terminal prompt -->
+  <g filter="url(#glow)">
+    <text x="310" y="230" fill="#F72585" font-family="monospace" font-size="14" opacity="0.7">root@unclet-cyber:~#</text>
+    <text x="500" y="230" fill="#00f5ff" font-family="monospace" font-size="14" opacity="0.7">whoami</text>
+    <rect x="555" y="218" width="8" height="16" fill="#00f5ff" opacity="0.7">
+      <animate attributeName="opacity" values="0.7;0;0.7" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Horizontal neon line -->
+  <rect x="100" y="270" width="700" height="2" rx="1" fill="url(#neonLine)" opacity="0.6"/>
+
+  <!-- Corner accents -->
+  <g stroke="#F72585" stroke-width="1.5" opacity="0.4" fill="none">
+    <polyline points="10,30 10,10 30,10"/>
+    <polyline points="870,10 890,10 890,30"/>
+    <polyline points="10,250 10,270 30,270"/>
+    <polyline points="870,270 890,270 890,250"/>
+  </g>
 </svg>

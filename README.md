@@ -149,13 +149,13 @@
 <a href="https://github.com/UncleT-cyber">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=F72585" alt="GitHub">
 </a>
-<a href="https://linkedin.com/in/UncleT-cyber" target="_blank">
+<a href="https://www.linkedin.com/in/anthony-abah-96187876" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn">
 </a>
-<a href="https://twitter.com/UncleT_cyber" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter">
+<a href="https://app.yikora.com/profile/unclet" target="_blank">
+  <img src="https://img.shields.io/badge/Yikora_MIVACIRCLE-0d1117?style=for-the-badge&logo=yikora&logoColor=00f5ff" alt="Yikora">
 </a>
-<a href="mailto:UncleT-cyber@proton.me" target="_blank">
+<a href="mailto:a.abah6082@miva.edu.ng" target="_blank">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" alt="Email">
 </a>
 

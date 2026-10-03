@@ -58,17 +58,6 @@
 <tr>
 <td width="50%" align="center">
 
-### [Smart Student Academic Portal](https://github.com/UncleT-cyber/smart-student-academic-portal)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Stars](https://img.shields.io/github/stars/UncleT-cyber/smart-student-academic-portal?style=flat-square&color=F72585&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/UncleT-cyber/smart-student-academic-portal?style=flat-square&color=00f5ff&labelColor=0d1117)
-
-</td>
-<td width="50%" align="center">
-
 ### [Libria](https://github.com/UncleT-cyber/libria)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)

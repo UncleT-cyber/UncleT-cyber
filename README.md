@@ -1,73 +1,86 @@
 <div align="center">
 
-<img src="header.svg" alt="UncleT-cyber banner" width="100%">
+<img src="header.svg" alt="Anthony Abah — UncleT-cyber" width="100%">
 
-# Anthony Abah <span>·</span> `UncleT-cyber`
+# Anthony Abah
+### Founder-minded engineer building useful, secure web products
 
-### Full-stack developer | Product builder | Security-minded engineer
+I turn ideas into shipped products—combining product thinking, full-stack engineering, and a security-first mindset. My work spans property technology, commerce, education, and security investigation.
 
-I design and build practical web products—from early ideas to deployed experiences—with a focus on clean engineering, useful interfaces, and responsible security.
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00f5ff)](https://github.com/UncleT-cyber)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00f5ff)](https://www.linkedin.com/in/anthony-abah-96187876)
-[![Yikora](https://img.shields.io/badge/Yikora-0d1117?style=flat-square&logo=googlechat&logoColor=00f5ff)](https://app.yikora.com/profile/unclet)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00f5ff)](mailto:a.abah6082@miva.edu.ng)
+[![Portfolio](https://img.shields.io/badge/PRODUCTS-00f5ff?style=flat-square&labelColor=0d1117)](https://landlordport.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-00f5ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/UncleT-cyber)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00f5ff?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/anthony-abah-96187876)
+[![Email](https://img.shields.io/badge/CONTACT-00f5ff?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:a.abah6082@miva.edu.ng)
 
 </div>
 
 ---
 
-## `01` / Selected work
+## `01` / Products & selected work
 
-A selection of live products and public projects. Use the links to visit a product or inspect its source.
+I’m interested in the full product lifecycle: understanding a real problem, shaping a useful experience, building the system, and improving it over time.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://landlordport.com">LandlordPort ↗</a></h3>
-      <p>A property platform designed to support landlord workflows across multiple jurisdictions.</p>
-      <a href="https://landlordport.com"><img src="https://img.shields.io/badge/PRODUCT-LIVE-00f5ff?style=flat-square&labelColor=0d1117" alt="LandlordPort live product"></a>
-      <br><sub>Product site · Source repository is private</sub>
+      <p><strong>Property technology</strong><br>A property platform designed to support landlord workflows across multiple jurisdictions.</p>
+      <a href="https://landlordport.com"><img src="https://img.shields.io/badge/OPEN_PRODUCT-LANDLORDPORT-00f5ff?style=flat-square&labelColor=0d1117" alt="Open LandlordPort product"></a>
+      <br><sub>Live product · Source code is private</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://zumamart.app">ZumaMart ↗</a></h3>
-      <p>An online marketplace experience focused on making product discovery and shopping straightforward.</p>
-      <a href="https://zumamart.app"><img src="https://img.shields.io/badge/PRODUCT-LIVE-00f5ff?style=flat-square&labelColor=0d1117" alt="ZumaMart live product"></a>
-      <br><sub>Product site · Source repository is private</sub>
+      <p><strong>Commerce</strong><br>An online marketplace experience focused on making product discovery and shopping straightforward.</p>
+      <a href="https://zumamart.app"><img src="https://img.shields.io/badge/OPEN_PRODUCT-ZUMAMART-00f5ff?style=flat-square&labelColor=0d1117" alt="Open ZumaMart product"></a>
+      <br><sub>Live product · Source code is private</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/UncleT-cyber/Ark-Geo">Ark-Geo ↗</a></h3>
-      <p>A Python project. Visit the repository for its documentation, implementation, and current status.</p>
-      <a href="https://github.com/UncleT-cyber/Ark-Geo"><img src="https://img.shields.io/badge/SOURCE-PUBLIC-00f5ff?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="Ark-Geo public source on GitHub"></a>
-      <a href="https://github.com/UncleT-cyber/Ark-Geo/blob/main/LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-7B2FF7?style=flat-square&labelColor=0d1117" alt="MIT license"></a>
+      <h3><a href="https://github.com/UncleT-cyber/Ark-Geo">THE ARK / Ark-Geo ↗</a></h3>
+      <p><strong>Security investigation & digital forensics</strong><br>An AI-native security investigation environment built around evidence integrity, deterministic analysis, auditability, and human authorization.</p>
+      <a href="https://github.com/UncleT-cyber/Ark-Geo"><img src="https://img.shields.io/badge/SOURCE-PUBLIC-00f5ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Explore public Ark-Geo repository"></a>
+      <a href="https://github.com/UncleT-cyber/Ark-Geo/blob/main/README.md"><img src="https://img.shields.io/badge/PROJECT_OVERVIEW-READ-7B2FF7?style=flat-square&labelColor=0d1117" alt="Read Ark-Geo project overview"></a>
+      <br><sub>Python · React · FastAPI · MIT License</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/UncleT-cyber/mivapulse">MIVAPULSE ↗</a></h3>
-      <p>A JavaScript project. Explore its public source and deployed demo.</p>
-      <a href="https://mivapulse.vercel.app"><img src="https://img.shields.io/badge/DEMO-LIVE-00f5ff?style=flat-square&labelColor=0d1117" alt="MIVAPULSE live demo"></a>
-      <a href="https://github.com/UncleT-cyber/mivapulse"><img src="https://img.shields.io/badge/SOURCE-PUBLIC-00f5ff?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="MIVAPULSE public source"></a>
+      <p><strong>Education technology</strong><br>An AI-assisted exam preparation platform with practice quizzes, essay evaluation, and document-to-quiz study tools.</p>
+      <a href="https://mivapulse.vercel.app"><img src="https://img.shields.io/badge/OPEN_PRODUCT- MIVAPULSE-00f5ff?style=flat-square&labelColor=0d1117" alt="Open MIVAPULSE product"></a>
+      <a href="https://github.com/UncleT-cyber/mivapulse"><img src="https://img.shields.io/badge/SOURCE-PUBLIC-00f5ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Explore MIVAPULSE source"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/UncleT-cyber/libria">Libria ↗</a></h3>
-      <p>A multi-language project built with TypeScript, Python, and Rust.</p>
-      <a href="https://libria-tau.vercel.app"><img src="https://img.shields.io/badge/DEMO-LIVE-00f5ff?style=flat-square&labelColor=0d1117" alt="Libria live demo"></a>
-      <a href="https://github.com/UncleT-cyber/libria"><img src="https://img.shields.io/badge/SOURCE-PUBLIC-00f5ff?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="Libria public source"></a>
+      <p><strong>Local-first music library</strong><br>A desktop music player and library focused on local collections, playback, and a native-feeling macOS experience.</p>
+      <a href="https://github.com/UncleT-cyber/libria"><img src="https://img.shields.io/badge/SOURCE-PUBLIC-00f5ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Explore Libria source"></a>
+      <a href="https://libria-tau.vercel.app"><img src="https://img.shields.io/badge/PROJECT_PAGE-VISIT-7B2FF7?style=flat-square&labelColor=0d1117" alt="Visit Libria project page"></a>
+      <br><sub>TypeScript · Python · Rust · MIT License</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/UncleT-cyber">More on GitHub ↗</a></h3>
-      <p>Browse my repositories for experiments, coursework, and work in progress.</p>
-      <a href="https://github.com/UncleT-cyber?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-7B2FF7?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="Explore GitHub repositories"></a>
+      <h3><a href="https://github.com/UncleT-cyber?tab=repositories">More projects ↗</a></h3>
+      <p>Explore my public repositories for additional experiments, coursework, and work in progress.</p>
+      <a href="https://github.com/UncleT-cyber?tab=repositories"><img src="https://img.shields.io/badge/BROWSE-ALL_REPOSITORIES-7B2FF7?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Browse all public repositories"></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## `02` / Engineering toolkit
+## `02` / How I build
+
+- **Start with the problem.** Define who the product serves and what a better outcome looks like.
+- **Ship useful increments.** Favor clear scope, working software, and feedback over unnecessary complexity.
+- **Design for trust.** Treat privacy, security, and responsible data handling as product requirements.
+- **Keep humans in control.** Especially in security-sensitive workflows, make decisions and authorization explicit.
+- **Improve from evidence.** Use testing, observability, and user feedback to guide the next iteration.
+
+## `03` / Security mindset
+
+I’m interested in defensive security, digital forensics, and authorized red-team practices. I build security capabilities with explicit scope, least privilege, human oversight, and traceable outcomes—never unauthorized access.
+
+## `04` / Technology
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f5ff)
@@ -77,11 +90,12 @@ A selection of live products and public projects. Use the links to visit a produ
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
-**Frameworks, infrastructure & data**  
+**Frameworks, platforms & data**  
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=43853D)
 ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
@@ -91,10 +105,10 @@ A selection of live products and public projects. Use the links to visit a produ
 
 <div align="center">
 
-`ACCESS: OPEN` · `ETHICS: REQUIRED` · `BUILD: CONTINUOUS`
+**Building at the intersection of product, engineering, and security.**
 
-[![Profile visitors](https://komarev.com/ghpvc/?username=UncleT-cyber&color=00f5ff&style=flat-square&label=VISITORS&labelColor=0d1117)](https://github.com/UncleT-cyber)
+[LinkedIn](https://www.linkedin.com/in/anthony-abah-96187876) · [GitHub](https://github.com/UncleT-cyber) · [Email](mailto:a.abah6082@miva.edu.ng)
 
-**Stay curious. Build responsibly. Secure by design.**
+`AUTHORIZED TESTING ONLY` · `EVIDENCE OVER ASSUMPTION` · `SECURE BY DESIGN`
 
 </div>

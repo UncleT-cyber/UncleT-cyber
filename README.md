@@ -4,7 +4,7 @@
 
 ### Cybersecurity · Digital Forensics · Security Investigations
 
-**Cybersecurity-focused professional exploring how evidence, intelligence, and technology can support safer digital systems.** My work centers on digital forensics, security investigation, OSINT, and human-supervised AI for security workflows.
+**Cybersecurity-focused professional exploring how evidence, intelligence, and technology can support safer digital systems.** My work centers on digital forensics, security investigation, OSINT, and responsible security tooling.
 
 [GitHub](https://github.com/UncleT-cyber) · [LinkedIn](https://www.linkedin.com/in/anthony-abah-96187876) · [Email](mailto:a.abah6082@miva.edu.ng)
 
@@ -24,11 +24,11 @@
 
 ## Featured security work
 
-### [THE ARK / Ark-Geo](https://github.com/UncleT-cyber/Ark-Geo)
+### ARK — Cybersecurity Super Intelligence
 
-An AI-native security investigation environment bringing together digital forensics, evidence management, investigation workflows, and controlled tool execution. Built around a core principle: **the human operator remains responsible for intent, authorization, and final assessment.**
+Founded and engineered by Anthony Abah, developed under Arkspan Systems. A free, bring-your-own-key cybersecurity investigation platform featuring agentic orchestration, security intelligence, and evidence-driven workflows. The main project is now private; public releases are available below.
 
-[Explore the public repository](https://github.com/UncleT-cyber/Ark-Geo) · [Read the project overview](https://github.com/UncleT-cyber/Ark-Geo/blob/main/README.md) · [MIT license](https://github.com/UncleT-cyber/Ark-Geo/blob/main/LICENSE)
+[Public releases](https://github.com/Ark-Span-Sys/ark-releases.git)
 
 **Project technologies:** Python · FastAPI · React · TypeScript · OSINT · Digital forensics
 

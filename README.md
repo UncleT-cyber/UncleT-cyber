@@ -46,10 +46,10 @@ Founded and engineered by Anthony Abah, developed under Arkspan Systems. A free,
 
 | Project | Area | Links |
 | --- | --- | --- |
-| **MIVAPULSE** | Education technology | [Live product](https://mivapulse.vercel.app) · [Public source](https://github.com/UncleT-cyber/mivapulse) |
-| **Libria** | Local-first desktop music library | [Public source](https://github.com/UncleT-cyber/libria) · [Project page](https://libria-tau.vercel.app) |
 | **LandlordPort** | Property technology | [Live product](https://landlordport.com) · Source repository is private |
 | **ZumaMart** | E-commerce | [Live product](https://zumamart.app) · Source repository is private |
+| **MIVAPULSE** | Education technology | [Live product](https://mivapulse.vercel.app) · [Public source](https://github.com/UncleT-cyber/mivapulse) |
+| **Libria** | Local-first desktop music library | [Public source](https://github.com/UncleT-cyber/libria) · [Project page](https://libria-tau.vercel.app) |
 
 ## Technical toolkit
 

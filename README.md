@@ -36,7 +36,7 @@ Founded and engineered by Anthony Abah, developed under Arkspan Systems. A free,
 
 <table>
   <tr>
-    <td align="center"><img src="https://i.postimg.cc/MpSGh2FY/Screenshot-2026-11-15-at-12-40-11-PM.png" alt="ARK investigation dashboard" width="480"></td>
+    <td align="center"><img src="https://i.postimg.cc/cHYP3HR0/Whats-App-Image-2026-11-14-at-13-08-45.jpg" alt="ARK start a new investigation" width="480"></td>
     <td align="center"><img src="https://i.postimg.cc/3wbYrPnq/Whats-App-Image-2026-11-14-at-12-03-40.jpg" alt="ARK investigation workspace" width="480"></td>
   </tr>
 </table>

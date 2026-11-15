@@ -32,6 +32,19 @@ Founded and engineered by Anthony Abah, developed under Arkspan Systems. A free,
 
 **Project technologies:** Python · FastAPI · React · TypeScript · OSINT · Digital forensics
 
+#### ARK screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="https://i.postimg.cc/MpSGh2FY/Screenshot-2026-11-15-at-12-40-11-PM.png" alt="ARK investigation dashboard" width="480"></td>
+    <td align="center"><img src="https://i.postimg.cc/P5jqBsRQ/Screenshot-2026-11-15-at-12-43-11-PM.png" alt="ARK authorized security testing workspace" width="480"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://i.postimg.cc/vmSb8p3J/Screenshot-2026-11-15-at-12-44-11-PM.png" alt="ARK phishing and adversary-in-the-middle assessment interface" width="480"></td>
+    <td align="center"><img src="https://i.postimg.cc/3wbYrPnq/Whats-App-Image-2026-11-14-at-12-03-40.jpg" alt="ARK investigation workspace" width="480"></td>
+  </tr>
+</table>
+
 ## Security principles
 
 | Principle | How I approach it |

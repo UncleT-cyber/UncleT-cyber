@@ -28,7 +28,7 @@
 
 Founded and engineered by Anthony Abah, developed under Arkspan Systems. A free, bring-your-own-key cybersecurity investigation platform featuring agentic orchestration, security intelligence, and evidence-driven workflows. The main project is now private; public releases are available below.
 
-[Public releases](https://github.com/Ark-Span-Sys/ark-releases.git)
+[Public releases](https://github.com/arkspan/ark_releases.git)
 
 **Project technologies:** Python · FastAPI · React · TypeScript · OSINT · Digital forensics
 
